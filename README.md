@@ -59,4 +59,6 @@ A collection of random starter-level python programs
 
 All you need for these is the python interepreter built into osx and linux (and I believe windows) and a text editor (I use atom, occasionally sublime, and rarely vim or emacs if I'm trying to do something very quick and easily.
 
+If you don't even want to go that far, you can just use an online REPL - REPL.it is useful for something quick. I also like http://collabedit.com/ to collab simultaneously with multiple users (helps for when you're stuck on something and can't figure it out) 
+
 That's it! I'll include more complex instructions once I have more complex examples.
